@@ -1,0 +1,19 @@
+{
+    "name": "andremeireles/calculadora_php",
+    "description": "um cli de uma calculadora.",
+    "require-dev": {
+        "symfony/var-dumper": "^5.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Andremeireles\\CalculadoraPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "André Meireles",
+            "email": "andre2meireles@gmail.com"
+        }
+    ],
+    "require": {}
+}
